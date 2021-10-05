@@ -1,4 +1,4 @@
-## Hi there!! I'm Mateus Monteiro, computer engineering student and Web/Mobile developer
+## Hi there!! I'm Mateus Monteiro, Computer Engineering Student and Web/Mobile Developer
 <div align="center">
   <a href="https://github.com/mmonteiros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmonteiros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
